@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "test726indu-may13.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 1,
+          "column": 1
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -71,7 +71,15 @@
       }
     ],
     "packageJSON": {
-      "dependencies": {}
+      "dependencies": {
+        "swagger-client": {
+          "name": "swagger-client",
+          "language": "nodejs",
+          "version": "3.8.21",
+          "dev": false,
+          "notRemovable": false
+        }
+      }
     }
   },
   "PROJECT_META": {
@@ -82,7 +90,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1589379155165
+    "lastSave": 1589379529364
   },
   "VCS_STATE": {
     "provider": "GitHub",

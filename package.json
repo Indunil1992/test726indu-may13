@@ -1,6 +1,8 @@
 {
   "name": "test726indu-may13",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "swagger-client": "3.8.21"
+  },
   "devDependencies": {}
 }
