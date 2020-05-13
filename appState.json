@@ -1,0 +1,94 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "ac7d3414-713d-4800-9cfe-9467bddbf833": {
+        "id": "ac7d3414-713d-4800-9cfe-9467bddbf833",
+        "parent": null,
+        "name": "test726indu-may13.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "test726indu-may13.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "test726induMay13"
+        },
+        "triggers": [
+          {
+            "resourceName": "apigusEast1testNEWinduutestinduany",
+            "config": {}
+          }
+        ]
+      }
+    },
+    "openFiles": [
+      "ac7d3414-713d-4800-9cfe-9467bddbf833"
+    ],
+    "currentFileId": "ac7d3414-713d-4800-9cfe-9467bddbf833",
+    "resources": {
+      "apigusEast1testNEWinduutestinduany": {
+        "name": "apigusEast1testNEWinduutestinduany",
+        "type": "API_GATEWAY",
+        "config": {
+          "selectedRegion": "us-east-1",
+          "apiMode": 0,
+          "apiName": "testNEWinduu",
+          "endpointType": "EDGE",
+          "resourceMode": 0,
+          "resourceName": "test/indu",
+          "resourcePath": "/test/indu",
+          "restMethod": "ANY",
+          "proxyIntegration": false,
+          "enableCORS": false,
+          "stageMode": 0,
+          "stageName": "test1",
+          "mode": 0
+        }
+      }
+    },
+    "customTemplate": {
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "test726indu-may13",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1589379155165
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test726indu-may13",
+      "url": "https://github.com/Indunil1992/test726indu-may13"
+    }
+  }
+}
